@@ -210,7 +210,7 @@
     <ReadOnly>false</ReadOnly>
     <FastChange></FastChange>
     <WindowTitle></WindowTitle>
-    <GraphMode>GRAPH_MODE_STRAIGHTTABLE</GraphMode>
+    <GraphMode>GRAPH_MODE_PIVOTTABLE</GraphMode>
     <TotalString></TotalString>
     <ErrorMessageOverrides></ErrorMessageOverrides>
     <MiniChartLook>false</MiniChartLook>

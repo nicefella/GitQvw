@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿<!-- Last project change: 2015-06-23 15:41:50 (2015-06-23 12:41:50) -->
+=======
+﻿<!-- Last project change: 2015-06-23 16:06:58 (2015-06-23 13:06:58) -->
+>>>>>>> parent of c736a4d... Revert "Yeni sheette bar chart oluşturuldu"
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -12,7 +16,7 @@
   <SHEETS>
     <PrjSheetProperties>
       <SheetId>Document\SH01</SheetId>
-      <IsActive>true</IsActive>
+      <IsActive>false</IsActive>
       <ChildObjects>
         <PrjFrameParentDef>
           <ObjectId>Document\LB01</ObjectId>
@@ -65,6 +69,32 @@
           <ShowMode>1</ShowMode>
           <ZedLevel>0</ZedLevel>
         </PrjFrameParentDef>
+<<<<<<< HEAD
+=======
+      </ChildObjects>
+    </PrjSheetProperties>
+    <PrjSheetProperties>
+      <SheetId>Document\SH02_165782701</SheetId>
+      <IsActive>true</IsActive>
+      <ChildObjects>
+        <PrjFrameParentDef>
+          <ObjectId>Document\CH03_787736551</ObjectId>
+          <Rect>
+            <Left>2097</Left>
+            <Top>84</Top>
+            <Width>1484</Width>
+            <Height>722</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>0</ZedLevel>
+        </PrjFrameParentDef>
+>>>>>>> parent of c736a4d... Revert "Yeni sheette bar chart oluşturuldu"
       </ChildObjects>
     </PrjSheetProperties>
   </SHEETS>
